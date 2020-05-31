@@ -1,0 +1,4 @@
+#!/bin/sh
+cd `dirname $0`
+../src/myalgorithm -n .:../src $*
+# for shared lib, use: opp_run -l ../src/myalgorithm -n .:../src $*

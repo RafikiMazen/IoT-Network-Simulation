@@ -1,0 +1,3 @@
+package myalgorithm;
+
+@license(LGPL);
